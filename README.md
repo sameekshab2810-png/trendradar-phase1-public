@@ -1,11 +1,7 @@
 # TrendRadar Phase 1 (Public)
 
-This repository hosts the public project page for TrendRadar Phase 1.
+Final stable public page:
 
-## Public Links
-- Live Feed: https://pink-buckets-flow.loca.lt/feed
-- API Docs: https://pink-buckets-flow.loca.lt/docs
-- Health: https://pink-buckets-flow.loca.lt/health
+- https://sameekshab2810-png.github.io/
 
-## Main codebase
-The implementation lives on the local internship project folder and includes collectors, API, database, and tests.
+Use this URL for mentor sharing. Temporary tunnel links were removed to avoid IP prompt and expiry issues.
